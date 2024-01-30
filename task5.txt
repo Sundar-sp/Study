@@ -1,0 +1,27 @@
+﻿Q. write the key points on Test scenario, Test case, Test strategy, Test plan and Test summary report
+
+
+Test Scenario:
+A test scenario is a high-level description of what should be tested.
+ behavior that needs to be validated.
+
+
+Test Case:
+A test case is a detailed set of steps to be followed to verify a specific function of the software.
+It includes inputs, execution steps, expected results, and preconditions.
+
+
+Test Strategy:
+A test strategy is an overall plan or approach for testing.
+Test strategy outlines how testing will be conducted throughout the project lifecycle.
+
+
+Test Plan:
+A test plan is a detailed document that provides a roadmap for testing activities.
+It includes the scope, objectives, schedule, resources, and responsibilities for testing.
+
+
+Test Summary Report:
+A test summary report is a document that summarizes the testing activities and results.
+It gives an overview of the testing process and outcomes.
+Test summary reports include information on test execution, test coverage, defects found, and test completion status.
